@@ -1,1 +1,2 @@
-pelican==3.6.2\nghp-import
+pelican==3.6
+ghp-import
