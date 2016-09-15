@@ -1,1 +1,1 @@
-pelican==3.6\nghp-import
+pelican==3.6.0\nghp-import
